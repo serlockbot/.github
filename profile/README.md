@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://serlockbot.ru/"><img src="https://img.shields.io/badge/Sherlock-OSINT-darkblue?style=for-the-badge&logo=appveyor" alt="Sherlock"></a>
-  <a href="https://serlockbot.ru/"><img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram" alt="Telegram Bot"></a>
-  <a href="https://serlockbot.ru/"><img src="https://img.shields.io/badge/Активен-2026-brightgreen?style=for-the-badge" alt="Active"></a>
+  <a href="https://serlock-bot.org/"><img src="https://img.shields.io/badge/Sherlock-OSINT-darkblue?style=for-the-badge&logo=appveyor" alt="Sherlock"></a>
+  <a href="https://serlock-bot.org/"><img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram" alt="Telegram Bot"></a>
+  <a href="https://serlock-bot.org/"><img src="https://img.shields.io/badge/Активен-2026-brightgreen?style=for-the-badge" alt="Active"></a>
   
   <h1>Шерлок Бот — Официальная Организация</h1>
   <p><b>Передовая аналитика и поиск информации в открытых источниках (OSINT)</b></p>
-  <a href="https://serlockbot.ru/"><b>🌐 Официальный сайт и запуск бота</b></a>
+  <a href="https://serlock-bot.org/"><b>🌐 Официальный сайт и запуск бота</b></a>
 </div>
 
 <br/>
@@ -41,7 +41,7 @@
 
 Вам больше не нужно искать альтернативы или использовать устаревшие инструменты вроде **шерлок холмс тг**. Все необходимое уже собрано в одном месте.
 
-1. **Перейдите на наш официальный сайт**: [Сайт Шерлок Бот](https://serlockbot.ru/)
+1. **Перейдите на наш официальный сайт**: [Сайт Шерлок Бот](https://serlock-bot.org/)
 2. **Изучите функционал**: Посмотрите видео-инструкции и ознакомьтесь с тарифами.
 3. **Запустите бота**: Начните использовать **шерлок бот тг пробив** прямо сейчас.
 
