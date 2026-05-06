@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Sherlock-OSINT-darkblue?style=for-the-badge&logo=appveyor" alt="Sherlock">
-  <img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram" alt="Telegram Bot">
-  <img src="https://img.shields.io/badge/Активен-2026-brightgreen?style=for-the-badge" alt="Active">
+  <a href="https://serlockbot.ru/"><img src="https://img.shields.io/badge/Sherlock-OSINT-darkblue?style=for-the-badge&logo=appveyor" alt="Sherlock"></a>
+  <a href="https://serlockbot.ru/"><img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram" alt="Telegram Bot"></a>
+  <a href="https://serlockbot.ru/"><img src="https://img.shields.io/badge/Активен-2026-brightgreen?style=for-the-badge" alt="Active"></a>
   
   <h1>Шерлок Бот — Официальная Организация</h1>
   <p><b>Передовая аналитика и поиск информации в открытых источниках (OSINT)</b></p>
